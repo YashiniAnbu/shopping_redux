@@ -1,0 +1,149 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 299,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/61fJZu8p1FL._AC_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 4.7,
+        "count": 154
+      }
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 459,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/41o-QjcpDLL._SL500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 4.5,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Gaming Mouse",
+      "price": 689,
+      "category": "Accessories",
+      "image": "https://i5.walmartimages.com/asr/9642ac7d-bb1e-42c7-975c-e45a19e487c5.46d51381df2d41ed7446f973ab013775.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": 4,
+      "title": "Bluetooth Speaker",
+      "price": 576,
+      "category": "Electronics",
+      "image": "https://i5.walmartimages.com/asr/a1f6e0c7-e42b-43ae-b3ce-980e16959109.90434e9998b717ab30fa4ac63173071a.jpeg",
+      "status": false,
+      "rating": {
+        "rate": 2.8,
+        "count": 47
+      }
+    },
+    {
+      "id": 5,
+      "title": "Laptops",
+      "price": 857,
+      "category": "Electronics",
+      "image": "https://microless.com/cdn/products/f026b0f0fb6302d095eda73e25215408-hi.jpg",
+      "status": false,
+      "rating": {
+        "rate": 4.9,
+        "count": 632
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mechanical Keyboard",
+      "price": 877,
+      "category": "Accessories",
+      "image": "https://m.media-amazon.com/images/I/71kr3WAj1FL._AC_SL1500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 3.9,
+        "count": 118
+      }
+    },
+    {
+      "id": 7,
+      "title": "USB Power Bank",
+      "price": 965,
+      "category": "Accessories",
+      "image": "https://images.philips.com/is/image/philipsconsumer/506144bc684c46e3a62fb0ce00a6d411?$pnglarge$&wid=1250",
+      "status": false,
+      "rating": {
+        "rate": 4.4,
+        "count": 205
+      }
+    },
+    {
+      "id": 8,
+      "title": "DSLR Camera",
+      "price": 982,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/914hFeTU2-L._AC_SL1500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 2.6,
+        "count": 39
+      }
+    },
+    {
+      "id": 9,
+      "title": "Tablets",
+      "price": 888,
+      "category": "Electronics",
+      "image": "https://media.ldlc.com/r1600/ld/products/00/06/17/46/LD0006174606_0006174670.jpg",
+      "status": false,
+      "rating": {
+        "rate": 4.1,
+        "count": 321
+      }
+    },
+    {
+      "id": 10,
+      "title": "RGB Mouse Pad",
+      "price": 456,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71iNwni9TsL._SL1500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 3.7,
+        "count": 142
+      }
+    },
+    {
+      "id": 11,
+      "title": "Smartphone",
+      "price": 847,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 4.8,
+        "count": 517
+      }
+    },
+    {
+      "id": 12,
+      "title": "Webcam",
+      "price": 364,
+      "category": "Electronics",
+      "image": "https://m.media-amazon.com/images/I/71iNwni9TsL._SL1500_.jpg",
+      "status": false,
+      "rating": {
+        "rate": 3.2,
+        "count": 74
+      }
+    }
+  ]
+  
+}
